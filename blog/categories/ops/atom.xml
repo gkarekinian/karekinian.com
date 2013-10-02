@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ops | ]]></title>
+  <link href="http://blog.karekinian.com/blog/categories/ops/atom.xml" rel="self"/>
+  <link href="http://blog.karekinian.com/"/>
+  <updated>2013-10-02T23:15:45+02:00</updated>
+  <id>http://blog.karekinian.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Learning from Failure at Etsy]]></title>
+    <link href="http://blog.karekinian.com/blog/2013/09/30/learning-from-failure-at-etsy/"/>
+    <updated>2013-09-30T15:43:00+02:00</updated>
+    <id>http://blog.karekinian.com/blog/2013/09/30/learning-from-failure-at-etsy</id>
+    <content type="html"><![CDATA[<p><a href="http://www.kitchensoap.com/2013/09/30/learning-from-failure-at-etsy/">Great article by John Allspaw</a> (reposted from Etsy&#39;s blog) about blameless
+post-mortems and Etsy&#39;s &quot;Just Culture&quot;.</p>
+
+<blockquote>
+<p>Having a <strong>Just Culture</strong> means that you’re making effort to balance safety
+<strong><em>and</em></strong> accountability. It means that by investigating mistakes in a way
+that focuses on the situational aspects of a failure’s mechanism and the
+decision-making process of individuals proximate to the failure, an
+organization can come out safer than it would normally be if it had simply
+punished the actors involved as a remediation.</p>
+</blockquote>
+
+<p>-- John Allspaw, <a href="http://www.kitchensoap.com/2013/09/30/learning-from-failure-at-etsy/">Learning from Failure at Etsy</a></p>
+]]></content>
+  </entry>
+  
+</feed>

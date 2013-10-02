@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: manipulation | ]]></title>
+  <link href="http://blog.karekinian.com/blog/categories/manipulation/atom.xml" rel="self"/>
+  <link href="http://blog.karekinian.com/"/>
+  <updated>2013-10-02T23:15:45+02:00</updated>
+  <id>http://blog.karekinian.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The spectacular thefts of Apollo Robbins, Pickpocket]]></title>
+    <link href="http://blog.karekinian.com/blog/2013/01/14/the-spectacular-thefts-of-apollo-robbins/"/>
+    <updated>2013-01-14T10:52:00+01:00</updated>
+    <id>http://blog.karekinian.com/blog/2013/01/14/the-spectacular-thefts-of-apollo-robbins</id>
+    <content type="html"><![CDATA[<blockquote>
+<p>Robbins needs to get close to his victims without setting off alarm bells.
+&quot;If I come at you head-on, like this,&quot; he said, stepping forward, &quot;I&#39;m going
+to run into that bubble of your personal space very quickly, and that&#39;s
+going to make you uncomfortable.&quot; He took a step back. &quot;So, what I do is I
+give you a point of focus, say a coin. Then I break eye contact by looking
+down, and I pivot around the point of focus, stepping forward in an arc, or
+a semicircle, till I&#39;m in your space.&quot; He demonstrated, winding up shoulder
+to shoulder with me, looking up at me sideways, his head cocked, all
+innocence. &quot;See how I was able to close the gap?&quot; he said. &quot;I flew in under
+your radar and I have access to all your pockets.&quot;</p>
+</blockquote>
+
+<p>This is a must-read article.</p>
+
+<p>via <a href="http://kottke.org/13/01/the-neuroscience-of-pickpockets">kottke</a></p>
+]]></content>
+  </entry>
+  
+</feed>

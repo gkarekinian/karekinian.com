@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: quote | ]]></title>
+  <link href="http://blog.karekinian.com/blog/categories/quote/atom.xml" rel="self"/>
+  <link href="http://blog.karekinian.com/"/>
+  <updated>2013-10-02T23:15:45+02:00</updated>
+  <id>http://blog.karekinian.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[DevOps: doing it wrong]]></title>
+    <link href="http://blog.karekinian.com/blog/2013/07/11/devops-doing-it-wrong/"/>
+    <updated>2013-07-11T13:07:00+02:00</updated>
+    <id>http://blog.karekinian.com/blog/2013/07/11/devops-doing-it-wrong</id>
+    <content type="html"><![CDATA[<blockquote class="twitter-tweet"><p>2003: “Just throw it over the wall to QA”&#10;2013: “Just throw it over the wall to  DevOps”&#10;&#10;<a href="https://twitter.com/search?q=%23doingitwrong&amp;src=hash">#doingitwrong</a></p>&mdash; Michael Klishin (@michaelklishin) <a href="https://twitter.com/michaelklishin/statuses/355281747950309377">July 11, 2013</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How the cloud works]]></title>
+    <link href="http://blog.karekinian.com/blog/2013/03/04/how-the-cloud-works/"/>
+    <updated>2013-03-04T22:41:18+01:00</updated>
+    <id>http://blog.karekinian.com/blog/2013/03/04/how-the-cloud-works</id>
+    <content type="html"><![CDATA[<p>Words of wisdom by Mark Imbriaco:</p>
+
+<blockquote class="twitter-tweet"><p>How the cloud works: 30 second DNS TTLs and hope.</p>&mdash; Mark Imbriaco (@markimbriaco) <a href="https://twitter.com/markimbriaco/status/308665700946436097">March 4, 2013</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mark Imbriaco on continuous deployment]]></title>
+    <link href="http://blog.karekinian.com/blog/2012/12/17/mark-imbriaco-on-continuous-deployment/"/>
+    <updated>2012-12-17T18:04:00+01:00</updated>
+    <id>http://blog.karekinian.com/blog/2012/12/17/mark-imbriaco-on-continuous-deployment</id>
+    <content type="html"><![CDATA[<blockquote>
+<p>Code that has been written but not yet deployed is very similar to inventory.
+You’ve paid the cost to develop the software, but are not yet getting any of
+the benefit from it. Shipping that code to production sooner means that you
+and your customers can benefit from it much faster. This is a pretty serious
+competitive advantage for companies that deliver features faster than their
+competitors.</p>
+
+<p>-- Mark Imbriaco</p>
+</blockquote>
+
+<p>source: <a href="http://gigaom.com/cloud/why-you-should-expect-more-online-outages-but-less-downtime/">Why you should expect more online outages but less downtime</a></p>
+]]></content>
+  </entry>
+  
+</feed>

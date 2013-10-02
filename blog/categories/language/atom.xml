@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: language | ]]></title>
+  <link href="http://blog.karekinian.com/blog/categories/language/atom.xml" rel="self"/>
+  <link href="http://blog.karekinian.com/"/>
+  <updated>2013-10-02T23:15:45+02:00</updated>
+  <id>http://blog.karekinian.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to speak Franglais]]></title>
+    <link href="http://blog.karekinian.com/blog/2013/05/29/how-to-speak-franglais/"/>
+    <updated>2013-05-29T14:32:00+02:00</updated>
+    <id>http://blog.karekinian.com/blog/2013/05/29/how-to-speak-franglais</id>
+    <content type="html"><![CDATA[<p>An <a href="http://www.bbc.co.uk/news/blogs-magazine-monitor-22655534">entire article written in Franglais, on the BBC website</a>.</p>
+
+<p>The whole thing is worth reading, here&#39;s one of my favorite paragraphs from it:</p>
+
+<blockquote>
+<p>Which portez moi to un point tres important. Si vous desirez le langage
+Francaise survivre pour tres jolies much longes, get votre prononciation
+sorti! Tous that eu, a, ong et onnhh: franchement, c&#39;est un mess, tous over
+la boutique.</p>
+</blockquote>
+
+<p>See also this gem from
+<a href="http://www.bbc.co.uk/news/magazine-22636888">Englishisms in France: Readers&#39; franglais favourites</a>:</p>
+
+<blockquote>
+<p>I have genuinely seen this with my own eyes: At the English railway station:
+ &quot;The buffet is open.&quot; At the French Railway station: &quot;Le snack bar est
+ ouvert.&quot;</p>
+</blockquote>
+]]></content>
+  </entry>
+  
+</feed>

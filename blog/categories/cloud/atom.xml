@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cloud | ]]></title>
+  <link href="http://blog.karekinian.com/blog/categories/cloud/atom.xml" rel="self"/>
+  <link href="http://blog.karekinian.com/"/>
+  <updated>2013-10-02T23:15:45+02:00</updated>
+  <id>http://blog.karekinian.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How the cloud works]]></title>
+    <link href="http://blog.karekinian.com/blog/2013/03/04/how-the-cloud-works/"/>
+    <updated>2013-03-04T22:41:18+01:00</updated>
+    <id>http://blog.karekinian.com/blog/2013/03/04/how-the-cloud-works</id>
+    <content type="html"><![CDATA[<p>Words of wisdom by Mark Imbriaco:</p>
+
+<blockquote class="twitter-tweet"><p>How the cloud works: 30 second DNS TTLs and hope.</p>&mdash; Mark Imbriaco (@markimbriaco) <a href="https://twitter.com/markimbriaco/status/308665700946436097">March 4, 2013</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+]]></content>
+  </entry>
+  
+</feed>

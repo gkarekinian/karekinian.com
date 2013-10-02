@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Greg Karékinian</title>
+ <link href="http://blog.karekinian.com/atom.xml" rel="self"/>
+ <link href="http://blog.karekinian.com/"/>
+ <updated>2013-10-02T23:15:45+02:00</updated>
+ <id>http://blog.karekinian.com</id>
+ <author>
+   <name>Greg Karékinian</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Learning from Failure at Etsy</title>
+   <link href="http://blog.karekinian.com/blog/2013/09/30/learning-from-failure-at-etsy/"/>
+   <updated>2013-09-30T15:43:00+02:00</updated>
+   <id>http://blog.karekinian.com/blog/2013/09/30/learning-from-failure-at-etsy</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.kitchensoap.com/2013/09/30/learning-from-failure-at-etsy/&quot;&gt;Great article by John Allspaw&lt;/a&gt; (reposted from Etsy&amp;#39;s blog) about blameless
+post-mortems and Etsy&amp;#39;s &amp;quot;Just Culture&amp;quot;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Having a &lt;strong&gt;Just Culture&lt;/strong&gt; means that you’re making effort to balance safety
+&lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; accountability. It means that by investigating mistakes in a way
+that focuses on the situational aspects of a failure’s mechanism and the
+decision-making process of individuals proximate to the failure, an
+organization can come out safer than it would normally be if it had simply
+punished the actors involved as a remediation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;-- John Allspaw, &lt;a href=&quot;http://www.kitchensoap.com/2013/09/30/learning-from-failure-at-etsy/&quot;&gt;Learning from Failure at Etsy&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DevOps: doing it wrong</title>
+   <link href="http://blog.karekinian.com/blog/2013/07/11/devops-doing-it-wrong/"/>
+   <updated>2013-07-11T13:07:00+02:00</updated>
+   <id>http://blog.karekinian.com/blog/2013/07/11/devops-doing-it-wrong</id>
+   <content type="html">&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;2003: “Just throw it over the wall to QA”&amp;#10;2013: “Just throw it over the wall to  DevOps”&amp;#10;&amp;#10;&lt;a href=&quot;https://twitter.com/search?q=%23doingitwrong&amp;amp;src=hash&quot;&gt;#doingitwrong&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Klishin (@michaelklishin) &lt;a href=&quot;https://twitter.com/michaelklishin/statuses/355281747950309377&quot;&gt;July 11, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to speak Franglais</title>
+   <link href="http://blog.karekinian.com/blog/2013/05/29/how-to-speak-franglais/"/>
+   <updated>2013-05-29T14:32:00+02:00</updated>
+   <id>http://blog.karekinian.com/blog/2013/05/29/how-to-speak-franglais</id>
+   <content type="html">&lt;p&gt;An &lt;a href=&quot;http://www.bbc.co.uk/news/blogs-magazine-monitor-22655534&quot;&gt;entire article written in Franglais, on the BBC website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The whole thing is worth reading, here&amp;#39;s one of my favorite paragraphs from it:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Which portez moi to un point tres important. Si vous desirez le langage
+Francaise survivre pour tres jolies much longes, get votre prononciation
+sorti! Tous that eu, a, ong et onnhh: franchement, c&amp;#39;est un mess, tous over
+la boutique.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;See also this gem from
+&lt;a href=&quot;http://www.bbc.co.uk/news/magazine-22636888&quot;&gt;Englishisms in France: Readers&amp;#39; franglais favourites&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I have genuinely seen this with my own eyes: At the English railway station:
+ &amp;quot;The buffet is open.&amp;quot; At the French Railway station: &amp;quot;Le snack bar est
+ ouvert.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How the cloud works</title>
+   <link href="http://blog.karekinian.com/blog/2013/03/04/how-the-cloud-works/"/>
+   <updated>2013-03-04T22:41:18+01:00</updated>
+   <id>http://blog.karekinian.com/blog/2013/03/04/how-the-cloud-works</id>
+   <content type="html">&lt;p&gt;Words of wisdom by Mark Imbriaco:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;How the cloud works: 30 second DNS TTLs and hope.&lt;/p&gt;&amp;mdash; Mark Imbriaco (@markimbriaco) &lt;a href=&quot;https://twitter.com/markimbriaco/status/308665700946436097&quot;&gt;March 4, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Culture</title>
+   <link href="http://blog.karekinian.com/blog/2013/02/21/culture/"/>
+   <updated>2013-02-21T09:57:07+01:00</updated>
+   <id>http://blog.karekinian.com/blog/2013/02/21/culture</id>
+   <content type="html">&lt;p&gt;At least three insightful articles about culture were posted yesterday. I think you should read them.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a href=&quot;http://37signals.com/svn/posts/3450&quot;&gt;When culture turns into policy&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A fine line exists between spelling out company culture and inadvertently
+engraving it as policy.&lt;/p&gt;
+
+&lt;p&gt;-- Mig Reyes&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;&lt;a href=&quot;http://blog.prettylittlestatemachine.com/blog/2013/02/20/what-your-culture-really-says/&quot;&gt;What Your Culture Really Says&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Culture is not about the furniture in your office. It is not about how much
+time you have to spend on feel-good projects. It is not about catered food,
+expensive social outings, internal chat tools, your ability to travel all
+over the world, or your never-ending self-congratulation.&lt;/p&gt;
+
+&lt;p&gt;-- shanley&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;&lt;a href=&quot;http://ted.io/culture.html&quot;&gt;Culture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In dysfunctional organizations, or, frankly, in organizations where people
+are unhappy, &amp;quot;intervention&amp;quot; from other sources (often human resources) is
+required because employees don&amp;#39;t actually like the culture, nor do they like
+their daily working lives. Entire HR teams are needed to try to convey
+supposed organizational culture (often devised ad hoc) to new employees
+because natural internal cultural diffusion has failed. At this point, it&amp;#39;s
+often too late to authentically fix a culture.&lt;/p&gt;
+
+&lt;p&gt;-- Ted Nyman&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;&lt;a href=&quot;http://37signals.com/svn/posts/1022-you-dont-create-a-culture&quot;&gt;You don’t create a culture (from 2008)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;It&amp;#39;s linked at the end of Mig Reyes&amp;#39; article but it&amp;#39;s worth a read as well.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;You don’t create a culture. Culture happens. It’s the by-product of
+consistent behavior. If you encourage people to share, and you give them the
+freedom to share, then sharing will be built into your culture. If you
+reward trust then trust will be built into your culture.&lt;/p&gt;
+
+&lt;p&gt;-- Jason Fried&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to install an old version of chef (0.10.4) as of 2013-02-14</title>
+   <link href="http://blog.karekinian.com/blog/2013/02/14/how-to-install-chef-0.10.4/"/>
+   <updated>2013-02-14T14:32:25+01:00</updated>
+   <id>http://blog.karekinian.com/blog/2013/02/14/how-to-install-chef-0.10.4</id>
+   <content type="html">&lt;h2&gt;Or: RubyGems dependency hell&lt;/h2&gt;
+
+&lt;h3&gt;Warning&lt;/h3&gt;
+
+&lt;p&gt;I know what you&amp;#39;re thinking: You&amp;#39;re not &lt;em&gt;supposed&lt;/em&gt; to use an old version of
+Chef. But not everyone is lucky enough to live in a magical world where your
+customers actually have a sysadmin maintaining their infrastructure and
+updating Chef and their cookbooks while you&amp;#39;re not working on it.&lt;/p&gt;
+
+&lt;h3&gt;A real life case&lt;/h3&gt;
+
+&lt;p&gt;Say you need to install an application on a server. That application happens to
+be written in Ruby, so you install Ruby (1.9 includes Rubygems and its &lt;code&gt;gem&lt;/code&gt;
+binary tool).&lt;/p&gt;
+
+&lt;p&gt;We&amp;#39;re installing Chef version 0.10.4 as part of a bootstrap script, but I&amp;#39;m
+going to break it down and do it by hand, because that version happens to be
+&lt;em&gt;pretty&lt;/em&gt; hard to install, as you will see.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;$ gem install chef --version 0.10.4
+ERROR:  While executing gem ... (Gem::DependencyError)
+Unable to resolve dependencies: chef requires net-ssh (~&amp;gt; 2.1.3); net-ssh-multi requires net-ssh (&amp;gt;= 2.1.4); net-ssh-gateway requires net-ssh (&amp;gt;= 2.6.5)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Oops.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;$ gem install net-ssh --version 2.1.4
+Fetching: net-ssh-2.1.4.gem (100%)
+Successfully installed net-ssh-2.1.4
+1 gem installed
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Alright, resolving the dependency issue by hand, it doesn&amp;#39;t seem too
+complicated.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;$ gem install chef --version 0.10.4
+ERROR:  While executing gem ... (Gem::DependencyError)
+    Unable to resolve dependencies: net-ssh-gateway requires net-ssh (&amp;gt;= 2.6.5)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Let&amp;#39;s check &lt;a href=&quot;https://rubygems.org&quot;&gt;RubyGems.org&lt;/a&gt; to see which version of
+&lt;code&gt;net-ssh-gateway&lt;/code&gt; doesn&amp;#39;t require &lt;code&gt;&amp;gt;= 2.6.5&lt;/code&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://rubygems.org/gems/net-ssh-gateway/versions/1.1.0&quot;&gt;1.1.0&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;$ gem install net-ssh-gateway --version 1.1.0
+Fetching: net-ssh-gateway-1.1.0.gem (100%)
+Successfully installed net-ssh-gateway-1.1.0
+1 gem installed
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Now let&amp;#39;s try installing Chef again:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;$ gem install chef --version 0.10.4
+Fetching: mixlib-config-1.1.2.gem (100%)
+Fetching: mixlib-cli-1.3.0.gem (100%)
+Fetching: mixlib-log-1.4.1.gem (100%)
+Fetching: mixlib-authentication-1.3.0.gem (100%)
+Fetching: systemu-2.5.2.gem (100%)
+Fetching: yajl-ruby-1.1.0.gem (100%)
+Building native extensions.  This could take a while...
+Fetching: mixlib-shellout-1.1.0.gem (100%)
+Fetching: ipaddress-0.8.0.gem (100%)
+Fetching: ohai-6.16.0.gem (100%)
+Fetching: mime-types-1.21.gem (100%)
+Fetching: rest-client-1.6.7.gem (100%)
+Fetching: bunny-0.8.0.gem (100%)
+[Version 0.8.0] AMQP 0.8 client is removed. Bunny is an AMQP 0.9.1 client only now.
+Fetching: json-1.5.2.gem (100%)
+Building native extensions.  This could take a while...
+Fetching: polyglot-0.3.3.gem (100%)
+Fetching: treetop-1.4.12.gem (100%)
+Fetching: net-ssh-multi-1.1.gem (100%)
+Fetching: erubis-2.7.0.gem (100%)
+Fetching: moneta-0.7.14.gem (100%)
+Fetching: highline-1.6.15.gem (100%)
+Fetching: uuidtools-2.1.3.gem (100%)
+Fetching: chef-0.10.4.gem (100%)
+Successfully installed mixlib-config-1.1.2
+Successfully installed mixlib-cli-1.3.0
+Successfully installed mixlib-log-1.4.1
+Successfully installed mixlib-authentication-1.3.0
+Successfully installed systemu-2.5.2
+Successfully installed yajl-ruby-1.1.0
+Successfully installed mixlib-shellout-1.1.0
+Successfully installed ipaddress-0.8.0
+Successfully installed ohai-6.16.0
+Successfully installed mime-types-1.21
+Successfully installed rest-client-1.6.7
+Successfully installed bunny-0.8.0
+Successfully installed json-1.5.2
+Successfully installed polyglot-0.3.3
+Successfully installed treetop-1.4.12
+Successfully installed net-ssh-multi-1.1
+Successfully installed erubis-2.7.0
+Successfully installed moneta-0.7.14
+Successfully installed highline-1.6.15
+Successfully installed uuidtools-2.1.3
+Successfully installed chef-0.10.4
+21 gems installed
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Oh wait, if we try to use that version of chef it won&amp;#39;t work, because it
+depends on any version of moneta, and moneta 0.7 is a complete rewrite. This is
+something you just &lt;em&gt;have to know somehow&lt;/em&gt;.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;$ gem uninstall moneta
+
+You have requested to uninstall the gem:
+        moneta-0.7.14
+chef-0.10.4 depends on [moneta (&amp;gt;= 0)]
+If you remove this gems, one or more dependencies will not be met.
+Continue with Uninstall? [Yn]  y
+Successfully uninstalled moneta-0.7.14
+$ gem install moneta --version 0.6.0
+Successfully installed moneta-0.6.0
+1 gem installed
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Bootstrap script&lt;/h2&gt;
+
+&lt;p&gt;In the end our bootstrap script looks like this (until we update all the
+cookbooks to work on Chef 11) instead of
+&lt;a href=&quot;https://github.com/opscode/chef/blob/0.10.4/chef/lib/chef/knife/bootstrap/ubuntu10.04-gems.erb#L14-L16&quot;&gt;lines 14-16 of 0.10.4 bootstrap&amp;#39;s script&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Original&lt;/h3&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;erb language-erb&quot; data-lang=&quot;erb&quot;&gt;&lt;span class=&quot;x&quot;&gt;gem update --no-rdoc --no-ri&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;gem install ohai --no-rdoc --no-ri --verbose&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;gem install chef --no-rdoc --no-ri --verbose &lt;/span&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;%=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bootstrap_version_string&lt;/span&gt; &lt;span class=&quot;cp&quot;&gt;%&amp;gt;&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Our fixed version&lt;/h3&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;erb language-erb&quot; data-lang=&quot;erb&quot;&gt;&lt;span class=&quot;x&quot;&gt;gem install moneta --version 0.6.0 --no-rdoc --no-ri --verbose&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;gem install net-ssh-gateway --version 1.1.0 --no-rdoc --no-ri --verbose&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;gem install net-ssh --version 2.1.4 --no-rdoc --no-ri --verbose&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;gem install ohai --no-rdoc --no-ri --verbose&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;gem install chef --version 0.10.4 --no-rdoc --no-ri --verbose&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;So what&amp;#39;s the moral of the story?&lt;/h2&gt;
+
+&lt;p&gt;If you have an application written in Ruby (not a library) either you or the
+maintainer of a gem you depend on &lt;strong&gt;will fuck up&lt;/strong&gt; the dependencies at some
+point and your gem will be impossible to install anymore.&lt;/p&gt;
+
+&lt;p&gt;This is part of the reason why apps that happen to be written in Ruby now ship
+packages with their own vendored everything as the prefered way of installing
+them (Ruby, gems, etc): &lt;a href=&quot;https://github.com/opscode/omnibus-chef&quot;&gt;Omnibus Chef&lt;/a&gt;,
+&lt;a href=&quot;https://github.com/mitchellh/vagrant-installers&quot;&gt;Vagrant Installer Generators&lt;/a&gt;.
+Yes, that means every piece of Ruby application of that kind will have its own
+Ruby and be pretty big. There&amp;#39;s no other way, deal with it.&lt;/p&gt;
+
+&lt;p&gt;Oh and see
+&lt;a href=&quot;http://tickets.opscode.com/browse/CHEF-3788&quot;&gt;this issue on Opscode&amp;#39;s ticket tracking&lt;/a&gt;
+to know why you really need to use Omnibus and not a gem.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Update &lt;code&gt;Thu Feb 14 16:53:41 CET 2013&lt;/code&gt;: Added more information about where to look for to resolve the net-ssh-gateway dependency requirements.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The spectacular thefts of Apollo Robbins, Pickpocket</title>
+   <link href="http://blog.karekinian.com/blog/2013/01/14/the-spectacular-thefts-of-apollo-robbins/"/>
+   <updated>2013-01-14T10:52:00+01:00</updated>
+   <id>http://blog.karekinian.com/blog/2013/01/14/the-spectacular-thefts-of-apollo-robbins</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;Robbins needs to get close to his victims without setting off alarm bells.
+&amp;quot;If I come at you head-on, like this,&amp;quot; he said, stepping forward, &amp;quot;I&amp;#39;m going
+to run into that bubble of your personal space very quickly, and that&amp;#39;s
+going to make you uncomfortable.&amp;quot; He took a step back. &amp;quot;So, what I do is I
+give you a point of focus, say a coin. Then I break eye contact by looking
+down, and I pivot around the point of focus, stepping forward in an arc, or
+a semicircle, till I&amp;#39;m in your space.&amp;quot; He demonstrated, winding up shoulder
+to shoulder with me, looking up at me sideways, his head cocked, all
+innocence. &amp;quot;See how I was able to close the gap?&amp;quot; he said. &amp;quot;I flew in under
+your radar and I have access to all your pockets.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is a must-read article.&lt;/p&gt;
+
+&lt;p&gt;via &lt;a href=&quot;http://kottke.org/13/01/the-neuroscience-of-pickpockets&quot;&gt;kottke&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RIP, Aaron Swartz</title>
+   <link href="http://blog.karekinian.com/blog/2013/01/12/rip-aaron-swartz/"/>
+   <updated>2013-01-12T14:32:00+01:00</updated>
+   <id>http://blog.karekinian.com/blog/2013/01/12/rip-aaron-swartz</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://boingboing.net/2013/01/12/rip-aaron-swartz.html&quot;&gt;Cory Doctorow&amp;#39;s obit for Aaron Swartz&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Grow your beard!</title>
+   <link href="http://blog.karekinian.com/blog/2012/12/24/grow-your-beard/"/>
+   <updated>2012-12-24T13:20:00+01:00</updated>
+   <id>http://blog.karekinian.com/blog/2012/12/24/grow-your-beard</id>
+   <content type="html">&lt;p&gt;BEARD.&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;http://www.youtube-nocookie.com/embed/eioQRkAo4Rw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mark Imbriaco on continuous deployment</title>
+   <link href="http://blog.karekinian.com/blog/2012/12/17/mark-imbriaco-on-continuous-deployment/"/>
+   <updated>2012-12-17T18:04:00+01:00</updated>
+   <id>http://blog.karekinian.com/blog/2012/12/17/mark-imbriaco-on-continuous-deployment</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;Code that has been written but not yet deployed is very similar to inventory.
+You’ve paid the cost to develop the software, but are not yet getting any of
+the benefit from it. Shipping that code to production sooner means that you
+and your customers can benefit from it much faster. This is a pretty serious
+competitive advantage for companies that deliver features faster than their
+competitors.&lt;/p&gt;
+
+&lt;p&gt;-- Mark Imbriaco&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;source: &lt;a href=&quot;http://gigaom.com/cloud/why-you-should-expect-more-online-outages-but-less-downtime/&quot;&gt;Why you should expect more online outages but less downtime&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Kaylz - Casual Reality</title>
+   <link href="http://blog.karekinian.com/blog/2012/12/17/kaylz-casual-reality/"/>
+   <updated>2012-12-17T11:46:00+01:00</updated>
+   <id>http://blog.karekinian.com/blog/2012/12/17/kaylz-casual-reality</id>
+   <content type="html">&lt;p&gt;New track from my brother Quentin&amp;#39;s band, &lt;a href=&quot;http://kaylz.com&quot;&gt;Kaylz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&quot;400&quot; height=&quot;100&quot; style=&quot;position: relative; display: block; width: 400px; height: 100px;&quot; src=&quot;http://bandcamp.com/EmbeddedPlayer/v=2/album=4138707461/size=venti/bgcol=FFFFFF/linkcol=4285BB/transparent=true/&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;a href=&quot;http://kaylz.bandcamp.com/album/obsidian-echoes&quot;&gt;Obsidian Echoes by Kaylz&lt;/a&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Their EP is coming soon.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

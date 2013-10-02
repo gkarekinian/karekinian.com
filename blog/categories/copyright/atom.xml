@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: copyright | ]]></title>
+  <link href="http://blog.karekinian.com/blog/categories/copyright/atom.xml" rel="self"/>
+  <link href="http://blog.karekinian.com/"/>
+  <updated>2013-10-02T23:15:45+02:00</updated>
+  <id>http://blog.karekinian.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[RIP, Aaron Swartz]]></title>
+    <link href="http://blog.karekinian.com/blog/2013/01/12/rip-aaron-swartz/"/>
+    <updated>2013-01-12T14:32:00+01:00</updated>
+    <id>http://blog.karekinian.com/blog/2013/01/12/rip-aaron-swartz</id>
+    <content type="html"><![CDATA[<p><a href="http://boingboing.net/2013/01/12/rip-aaron-swartz.html">Cory Doctorow&#39;s obit for Aaron Swartz</a></p>
+]]></content>
+  </entry>
+  
+</feed>

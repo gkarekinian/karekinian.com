@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: startup | ]]></title>
+  <link href="http://blog.karekinian.com/blog/categories/startup/atom.xml" rel="self"/>
+  <link href="http://blog.karekinian.com/"/>
+  <updated>2013-10-02T23:15:45+02:00</updated>
+  <id>http://blog.karekinian.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Culture]]></title>
+    <link href="http://blog.karekinian.com/blog/2013/02/21/culture/"/>
+    <updated>2013-02-21T09:57:07+01:00</updated>
+    <id>http://blog.karekinian.com/blog/2013/02/21/culture</id>
+    <content type="html"><![CDATA[<p>At least three insightful articles about culture were posted yesterday. I think you should read them.</p>
+
+<h2><a href="http://37signals.com/svn/posts/3450">When culture turns into policy</a></h2>
+
+<blockquote>
+<p>A fine line exists between spelling out company culture and inadvertently
+engraving it as policy.</p>
+
+<p>-- Mig Reyes</p>
+</blockquote>
+
+<h2><a href="http://blog.prettylittlestatemachine.com/blog/2013/02/20/what-your-culture-really-says/">What Your Culture Really Says</a></h2>
+
+<blockquote>
+<p>Culture is not about the furniture in your office. It is not about how much
+time you have to spend on feel-good projects. It is not about catered food,
+expensive social outings, internal chat tools, your ability to travel all
+over the world, or your never-ending self-congratulation.</p>
+
+<p>-- shanley</p>
+</blockquote>
+
+<h2><a href="http://ted.io/culture.html">Culture</a></h2>
+
+<blockquote>
+<p>In dysfunctional organizations, or, frankly, in organizations where people
+are unhappy, &quot;intervention&quot; from other sources (often human resources) is
+required because employees don&#39;t actually like the culture, nor do they like
+their daily working lives. Entire HR teams are needed to try to convey
+supposed organizational culture (often devised ad hoc) to new employees
+because natural internal cultural diffusion has failed. At this point, it&#39;s
+often too late to authentically fix a culture.</p>
+
+<p>-- Ted Nyman</p>
+</blockquote>
+
+<h2><a href="http://37signals.com/svn/posts/1022-you-dont-create-a-culture">You don’t create a culture (from 2008)</a></h2>
+
+<p>It&#39;s linked at the end of Mig Reyes&#39; article but it&#39;s worth a read as well.</p>
+
+<blockquote>
+<p>You don’t create a culture. Culture happens. It’s the by-product of
+consistent behavior. If you encourage people to share, and you give them the
+freedom to share, then sharing will be built into your culture. If you
+reward trust then trust will be built into your culture.</p>
+
+<p>-- Jason Fried</p>
+</blockquote>
+]]></content>
+  </entry>
+  
+</feed>
