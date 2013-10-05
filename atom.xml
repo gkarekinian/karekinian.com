@@ -4,7 +4,7 @@
  <title>Greg Karékinian</title>
  <link href="http://blog.karekinian.com/atom.xml" rel="self"/>
  <link href="http://blog.karekinian.com/"/>
- <updated>2013-10-05T00:54:00+02:00</updated>
+ <updated>2013-10-05T14:34:50+02:00</updated>
  <id>http://blog.karekinian.com</id>
  <author>
    <name>Greg Karékinian</name>
@@ -179,9 +179,8 @@ ERROR:  While executing gem ... (Gem::DependencyError)
     Unable to resolve dependencies: net-ssh-gateway requires net-ssh (&amp;gt;= 2.6.5)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Let&amp;#39;s check &lt;a href=&quot;https://rubygems.org&quot;&gt;RubyGems.org&lt;/a&gt; to see which version of
-&lt;code&gt;net-ssh-gateway&lt;/code&gt; doesn&amp;#39;t require &lt;code&gt;&amp;gt;= 2.6.5&lt;/code&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://rubygems.org/gems/net-ssh-gateway/versions/1.1.0&quot;&gt;1.1.0&lt;/a&gt;&lt;/p&gt;
+&lt;code&gt;net-ssh-gateway&lt;/code&gt; doesn&amp;#39;t require &lt;code&gt;&amp;gt;= 2.6.5&lt;/code&gt;:
+&lt;a href=&quot;https://rubygems.org/gems/net-ssh-gateway/versions/1.1.0&quot;&gt;1.1.0&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;$ gem install net-ssh-gateway --version 1.1.0
 Fetching: net-ssh-gateway-1.1.0.gem (100%)
 Successfully installed net-ssh-gateway-1.1.0

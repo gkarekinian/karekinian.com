@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ruby | ]]></title>
   <link href="http://blog.karekinian.com/blog/categories/ruby/atom.xml" rel="self"/>
   <link href="http://blog.karekinian.com/"/>
-  <updated>2013-10-05T00:54:00+02:00</updated>
+  <updated>2013-10-05T14:34:50+02:00</updated>
   <id>http://blog.karekinian.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -53,9 +53,8 @@ ERROR:  While executing gem ... (Gem::DependencyError)
     Unable to resolve dependencies: net-ssh-gateway requires net-ssh (&gt;= 2.6.5)
 </code></pre></div>
 <p>Let&#39;s check <a href="https://rubygems.org">RubyGems.org</a> to see which version of
-<code>net-ssh-gateway</code> doesn&#39;t require <code>&gt;= 2.6.5</code>:</p>
-
-<p><a href="https://rubygems.org/gems/net-ssh-gateway/versions/1.1.0">1.1.0</a></p>
+<code>net-ssh-gateway</code> doesn&#39;t require <code>&gt;= 2.6.5</code>:
+<a href="https://rubygems.org/gems/net-ssh-gateway/versions/1.1.0">1.1.0</a></p>
 <div class="highlight"><pre><code class="text language-text" data-lang="text">$ gem install net-ssh-gateway --version 1.1.0
 Fetching: net-ssh-gateway-1.1.0.gem (100%)
 Successfully installed net-ssh-gateway-1.1.0
